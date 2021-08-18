@@ -1,7 +1,7 @@
 #pragma once
 
 #include "cc1101.h"
-#include <SoftwareSerial.h>
+//#include <SoftwareSerial.h>
 #include <stdint.h>
 
 #include "FanStatus.h"
